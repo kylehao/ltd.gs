@@ -74,18 +74,14 @@ background-color: 000;
 			<div class="menu-wrap">
 				<nav class="menu">
 					<div class="icon-list" >
-						<a href="../../"><i class="fa fa-fw fa-star-o"></i><span>仿WIN7电脑桌面</span></a>
-						<a href="../../index/MuiPlayer/"><i class="fa fa-fw fa-bell-o"></i><span>MuiPlayer视频播放</span></a>
-						<a href="../../index/sea/"><i class="fa fa-fw fa-envelope-o"></i><span>海水波浪动画导航</span></a>
-						<a href="../../index/bike/"><i class="fa fa-fw fa-comment-o"></i><span>自行车运动特效</span></a>
-						<a href="../../index/farm/"><i class="fa fa-fw fa-bar-chart-o"></i><span>秋日农场特效</span></a>
-						<a href="../../index/qiuqian/"><i class="fa fa-fw fa-newspaper-o"></i><span>唯美秋千视频特效</span></a>
-						<a href="../../index/snow/"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
-						<a href="../../index/suidao/"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
-						<a href="../../index/video/"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
-						<a href="../../index/dlam/"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
-						<a href="../../index/hdfw/"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
-						<a href="../../index/yuan/"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						<a href="../../"><i class="fa fa-fw fa-star-o"></i><span>仿苹果电脑桌面</span></a>
+						<a href="../../index/jeep/"><i class="fa fa-fw fa-bell-o"></i><span>超酷吉普车动画</span></a>
+						<a href="../../index/haikui/"><i class="fa fa-fw fa-envelope-o"></i><span>酷炫海葵动画特效</span></a>
+						<a href="../../index/wht/"><i class="fa fa-fw fa-comment-o"></i><span>万花筒导航</span></a>
+						<a href="../../index/newyear/"><i class="fa fa-fw fa-newspaper-o"></i><span>新年倒计时特效</span></a>
+						<a href="../../index/lunbo/"><i class="fa fa-fw fa-star-o"></i><span>焦点图片轮播特效</span></a>
+						<a href="../../index/lunbo3D/"><i class="fa fa-fw fa-bell-o"></i><span>全屏3D旋转特效</span></a>
+						<a href="../../index/yanhua/"><i class="fa fa-fw fa-newspaper-o"></i><span>烟花绽放场景特效</span></a>
 						
 					</div>
 				</nav>
