@@ -132,7 +132,7 @@ document.write("<img style='position:fixed;' src='images/bg"+erke+".jpg' height=
 						<a href="./index/baiye/"><i class="fa fa-fw fa-star-o"></i><span>百叶窗轮播特效</span></a>
 						<a href="./index/window/"><i class="fa fa-fw fa-bell-o"></i><span>窗户玻璃雨滴特效</span></a>
 						<a href="./index/snow3/"><i class="fa fa-fw fa-newspaper-o"></i><span>网页下雪特效</span></a>
-						<a href="./index/snow3/"><i class="fa fa-fw fa-newspaper-o"></i><span>网页下雪特效</span></a>
+						<a href="./index/windows/"><i class="fa fa-fw fa-newspaper-o"></i><span>窗外星空特效</span></a>
 						
 					</div>
 				</nav>
